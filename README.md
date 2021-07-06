@@ -32,5 +32,5 @@
 
 ## Room join
 
-- You can also `join` directly to your `room` by going
+- You can also `join` directly to your `room` by going to the link
 
