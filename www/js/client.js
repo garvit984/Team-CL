@@ -2392,7 +2392,7 @@ async function shareRoomUrl() {
       } else if (result.isDenied) {
         let message = {
           email: "",
-          subject: "Please join our Mirotalk Video Chat Meeting",
+          subject: "Please join our TeamCl Video Chat Meeting",
           body: "Click to join: " + myRoomUrl,
         };
         shareRoomByEmail(message);

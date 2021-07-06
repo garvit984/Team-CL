@@ -139,7 +139,6 @@ document.getElementById("roomName").value = "";
 let i = 0;
 let txt = num + adjective + noun;
 let speed = 100;
-
 typeWriter();
 
 function typeWriter() {
