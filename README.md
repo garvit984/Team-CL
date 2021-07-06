@@ -19,7 +19,7 @@
 - Multiple User can share their screen at the same time.
 - File Sharing, share any files to your participants in the room
 - Show user's audio and video status
-- Select Audio Input - Output && Video source
+- Select Audio Input - Output & Video source
 - Support for OBS Studio
 - Ability to set video quality up to 4K and adapt the FPS
 - Recording your Screen, Audio and Video and saving it locally.
